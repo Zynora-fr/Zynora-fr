@@ -28,14 +28,14 @@ Aujourd’hui, je combine **mes études**, **mes projets personnels** et **mon a
 ## 🌐 Me retrouver
 [![🌐 Site web](https://img.shields.io/badge/🌐-Devosphere-blue?style=for-the-badge)](https://www.devosphere.fr)
 [![✉️ Email](https://img.shields.io/badge/✉️-contact@devosphere.fr-red?style=for-the-badge)](mailto:contact@devosphere.fr)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/linconnudu54)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Devosphere-fr)
 
 ---
 
 ## 📊 Mes stats GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=linconnudu54&count_private=true&show_icons=true&theme=dark&hide_border=true)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Devosphere-fr&count_private=true&show_icons=true&theme=dark&hide_border=true)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=linconnudu54&layout=compact&theme=dark&hide_border=true)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Devosphere-fr&layout=compact&theme=dark&hide_border=true)
 
 ---
 
