@@ -8,10 +8,10 @@ Aujourd’hui, je combine **mes études**, **mes projets personnels** et **mon a
 
 - 🎓 **Bac Systèmes Numériques (SN)** – Option **ARED (Audiovisuel, Réseau et Équipement Domestique)**  
 - 📘 Actuellement en **BTS SIO (Services Informatiques aux Organisations)**
-- 💻 Fondateur de **[Devosphere](https://www.devosphere.fr)**, une entreprise spécialisée dans la création de sites internet et de solutions numériques  
+- 💻 Fondateur de **[Zynora](https://www.Zynora.fr)**, une entreprise spécialisée dans la création de sites internet et de solutions numériques  
 - 📚 Créateur d’**Edunexus**, une plateforme éducative nouvelle génération, inspirée d’outils comme École Directe ou Mon Bureau Numérique, mais plus moderne et intuitive  
 
-📧 Contact : [contact@devosphere.fr](mailto:contact@devosphere.fr)  
+📧 Contact : [leo.bandel54@gmail.com](mailto:leo.bandel54@gmail.com)  
 📱 Téléphone : 07 49 77 66 07  
 
 ---
@@ -26,16 +26,16 @@ Aujourd’hui, je combine **mes études**, **mes projets personnels** et **mon a
 ---
 
 ## 🌐 Me retrouver
-[![🌐 Site web](https://img.shields.io/badge/🌐-Devosphere-blue?style=for-the-badge)](https://www.devosphere.fr)
-[![✉️ Email](https://img.shields.io/badge/✉️-contact@devosphere.fr-red?style=for-the-badge)](mailto:contact@devosphere.fr)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Devosphere-fr)
+[![🌐 Site web](https://img.shields.io/badge/🌐-Devosphere-blue?style=for-the-badge)](https://www.zynora.fr)
+[![✉️ Email](https://img.shields.io/badge/✉️-leo.bandel54@gmail.com-red?style=for-the-badge)](mailto:leo.bandel54@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Zynora-fr)
 
 ---
 
 ## 📊 Mes stats GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Devosphere-fr&count_private=true&show_icons=true&theme=dark&hide_border=true)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Zynora-fr&count_private=true&show_icons=true&theme=dark&hide_border=true)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Devosphere-fr&layout=compact&theme=dark&hide_border=true)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Zynora-fr&layout=compact&theme=dark&hide_border=true)
 
 ---
 
