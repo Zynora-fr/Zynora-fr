@@ -8,10 +8,10 @@ Aujourd’hui, je combine **mes études**, **mes projets personnels** et **mon a
 
 - 🎓 **Bac Systèmes Numériques (SN)** – Option **ARED (Audiovisuel, Réseau et Équipement Domestique)**  
 - 📘 Actuellement en **BTS SIO (Services Informatiques aux Organisations)**
-- 💻 Fondateur de **[Zynora](https://www.Zynora.fr)**, une entreprise spécialisée dans la création de sites internet et de solutions numériques  
+- 💻 Fondateur de **[Zynora](https://www.zynora.fr)**, une entreprise spécialisée dans la création de sites internet et de solutions numériques  
 - 📚 Créateur d’**Edunexus**, une plateforme éducative nouvelle génération, inspirée d’outils comme École Directe ou Mon Bureau Numérique, mais plus moderne et intuitive  
 
-📧 Contact : [leo.bandel54@gmail.com](mailto:leo.bandel54@gmail.com)  
+📧 Contact : [contact@zynora.fr](mailto:contact@zynora.fr)  
 📱 Téléphone : 07 49 77 66 07  
 
 ---
@@ -27,7 +27,7 @@ Aujourd’hui, je combine **mes études**, **mes projets personnels** et **mon a
 
 ## 🌐 Me retrouver
 [![🌐 Site web](https://img.shields.io/badge/🌐-Devosphere-blue?style=for-the-badge)](https://www.zynora.fr)
-[![✉️ Email](https://img.shields.io/badge/✉️-leo.bandel54@gmail.com-red?style=for-the-badge)](mailto:leo.bandel54@gmail.com)
+[![✉️ Email](https://img.shields.io/badge/✉️-contact@zynora.fr-red?style=for-the-badge)](mailto:contact@zynora.fr)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Zynora-fr)
 
 ---
