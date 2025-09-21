@@ -26,7 +26,7 @@ Aujourd’hui, je combine **mes études**, **mes projets personnels** et **mon a
 ---
 
 ## 🌐 Me retrouver
-[![🌐 Site web](https://img.shields.io/badge/🌐-Devosphere-blue?style=for-the-badge)](https://www.zynora.fr)
+[![🌐 Site web](https://img.shields.io/badge/🌐-Zynora-blue?style=for-the-badge)](https://www.zynora.fr)
 [![✉️ Email](https://img.shields.io/badge/✉️-contact@zynora.fr-red?style=for-the-badge)](mailto:contact@zynora.fr)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Zynora-fr)
 
